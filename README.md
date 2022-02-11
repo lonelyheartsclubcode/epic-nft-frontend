@@ -1,11 +1,7 @@
-# buildspace Mint Your Own NFT Collection
+# On Chain NFT Project with _buildspace
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+This project demonstrates a basic Hardhat use case. I used Hardhat to build out, test, and deploy an NFT smart contract to the Rinkeby testnet. 
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
+This project was built with Solidity, Hardhat, JS, and React.
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CO961ddb5f-f428-4608-9949-a9a2f461eb3f) and link your Discord account so you can get access to helpful channels and your instructor!
+You can view my site at: https://epic-nft-59bd9.web.app/
